@@ -1,0 +1,3 @@
+Step 1: Run the "Phase_Spectrum_Analysis" code to determine the optimization search range of lag parameters between the dependent variable and each independent variable;
+Step 2: Use the "DE_MC" code to optimize the hyperparameters of the FLNMGM(1,N) model and obtain the optimal parameter set;
+Step 3: Substitute the optimal parameter set into the "FLNMGM_1N" code to obtain the modeling results.

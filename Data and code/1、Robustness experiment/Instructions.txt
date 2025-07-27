@@ -1,0 +1,5 @@
+Step 1: Use the code “Data_Generation_Experimental_data_with_noise_added” in the folder “Generated experimental data” to generate experimental data with added noise.
+Step 2: Use the code “Phase_spectrum_analysis” in the folder “Phase spectrum analysis” to calculate the feasible range of lag values between variables.
+Step 3: Use the code “DE_MC” in the folder “Modeling error” to obtain the modeling results.
+
+Note: For both the Phase_spectrum_analysis and DE_MC codes to run properly, the required data files must be placed in the same folder as the corresponding code.
